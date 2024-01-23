@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kamaljoshi13
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JAVASCRIPT
-- 📫 How to reach me email:kamalnoob01@gmail.com , whatsapp-8218126242
+- 📫 How to reach me email:kamalnoob01@gmail.com 
 
 
 <!---
