@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamaljoshi13
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React JS 
 - 📫 How to reach me email:kamalnoob01@gmail.com
 - 
 
